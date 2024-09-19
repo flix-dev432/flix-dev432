@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🔭 I’m currently working in an interdisciplinary field between AI and biomedicine.
+- 🌱 I’m currently learning probabilistic modelling and methods for handling large biomedical datasets.
+
 
 <!--
 **flix-dev432/flix-dev432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
