@@ -1,6 +1,5 @@
 ## Hi there 👋
 - 🔭 I’m currently working in an interdisciplinary field between AI and biomedicine.
-- 🌱 I’m currently learning probabilistic modelling and methods for handling large biomedical datasets.
 
 
 <!--
