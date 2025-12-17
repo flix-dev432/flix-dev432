@@ -1,5 +1,4 @@
-## Hi there 👋
-- 🔭 I’m currently working in an interdisciplinary field between AI and biomedicine.
+
 
 
 <!--
